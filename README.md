@@ -1,7 +1,7 @@
 # ☆ About Me:
 Infromatics Economics at University Metropolitan Tirana/UMT<br>
 Student with an interest in data analysis and data science.<br>
-I'm currently working with python and R.<br>
+I'm currently working with Python and R.<br>
 
 
 ## 🌐 Socials:
